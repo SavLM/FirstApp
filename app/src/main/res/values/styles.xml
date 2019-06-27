@@ -6,6 +6,9 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">48sp</item>
+        <item name="android:fontFamily">sans-serif-light</item> <!-- doesn't work on java 15 -->
     </style>
 
 </resources>
