@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">FirstApp</string>
-    <string name="icon1_name">1</string>
-    <string name="icon2_name">2</string>
-    <string name="icon3_name">3</string>
+    <string name="button_name">Submit</string>
+    <string name="input_name">Input text here.</string>
+    <string name="output_name">Output goes here.</string>
     <string name="image_descr">Image of the Moon</string>
 </resources>
